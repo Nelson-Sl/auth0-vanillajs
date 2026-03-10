@@ -1,0 +1,27 @@
+{
+  "name": "auth0-vanillajs",
+  "version": "1.0.0",
+  "description": "This is a sample single-page application for Auth0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson-Sl/auth0-vanillajs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Nelson-Sl/auth0-vanillajs/issues"
+  },
+  "homepage": "https://github.com/Nelson-Sl/auth0-vanillajs#readme",
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
