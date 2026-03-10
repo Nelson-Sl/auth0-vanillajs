@@ -23,5 +23,8 @@
   "homepage": "https://github.com/Nelson-Sl/auth0-vanillajs#readme",
   "devDependencies": {
     "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^2.17.0"
   }
 }
